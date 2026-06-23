@@ -1,2 +1,5 @@
-docs/
+node_modules/
+.env
+.next/
+dist/
 .DS_Store
